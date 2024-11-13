@@ -1,28 +1,29 @@
 body {
-	margin: 0;
-	font-family: Arial, sans-serif;
-	background: #d6eff4;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #d6eff4;
 }
-.navbar{
-	background: #212121;
-	margin: 0;
-	padding: 20px 30px;
+.navbar {
+  background: #212121;
+  margin: 0;
+  padding: 20px 30px;
 }
-.menu{
-	margin: 0;
-	display: flex;
-	list-style: none;
-	padding: 0;			
+.menu {
+  margin: 0;
+  display: flex;
+  list-style: none;
+  padding: 0;
 }
- 
-.menu li{
-	padding-left: 0;
-	margin-right: 10px;
+
+.menu li {
+  padding-left: 0;
+  margin-right: 10px;
+  color: white;
 }
- 
-.menu li a{
-	padding:10px;
-	color: white;
-	text-decoration: none;
-	display: inline-block;
+
+.menu li a {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
 }
